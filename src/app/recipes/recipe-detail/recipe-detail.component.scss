@@ -1,0 +1,12 @@
+.dropdown-menu {
+  li {
+    text-align: center;
+    &:hover {
+      background-color: #f8f9fa;
+    }
+    a {
+      color: #000000;
+      text-decoration: none;
+    }
+  }
+}
